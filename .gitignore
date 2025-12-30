@@ -1,0 +1,24 @@
+# Ignore everything
+*
+
+# But not ignore this files and folders:
+!.gitignore
+!README.md
+
+!alacritty
+!alacritty/alacritty.toml
+
+!zsh
+!zsh/*
+
+!tmux
+!tmux/tmux.conf
+
+!starship.toml
+
+!helix
+!helix/config.toml
+!helix/languages.toml
+
+!zed
+!zed/settings.json
