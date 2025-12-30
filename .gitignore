@@ -17,8 +17,7 @@
 !starship.toml
 
 !helix
-!helix/config.toml
-!helix/languages.toml
+!helix/*
 
 !zed
 !zed/settings.json
