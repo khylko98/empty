@@ -12,3 +12,8 @@ formatter = { command = 'prettier', args = ["--parser", "typescript"] }
 [[language]]
 name = "typescript"
 formatter = { command = 'prettier', args = ["--parser", "typescript"] }
+
+[[language]]
+name = "html"
+language-servers = ["vscode-html-language-server"]
+formatter = { command = 'prettier', args = ["--stdin-filepath", "%{buffer_name}"] }
