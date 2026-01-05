@@ -16,7 +16,6 @@
   "active_pane_modifiers": {
     "inactive_opacity": 1.0,
   },
-  "icon_theme": "Catppuccin Mocha",
   "telemetry": {
     "diagnostics": false,
     "metrics": false,
